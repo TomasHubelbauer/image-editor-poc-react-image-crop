@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "bun --hot serve.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  },
+  "dependencies": {
+    "@types/react-image-crop": "^8.1.6"
+  }
+}
